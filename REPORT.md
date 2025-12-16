@@ -35,8 +35,7 @@ target/
 
 ## Fonctionnalités Principales
 Le fichier `Main.java` contient la logique principale du projet. Voici un aperçu des fonctionnalités implémentées :
-- Exemple de fonctionnalité 1 : [Description]
-- Exemple de fonctionnalité 2 : [Description]
+    Affichage d'un texte basic 
 
 ## Pipeline CI/CD
 Le fichier `Jenkinsfile` définit les étapes suivantes :
