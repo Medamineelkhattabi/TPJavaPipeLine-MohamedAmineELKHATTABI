@@ -24,7 +24,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.Main</mainClass> <!-- classe main -->
+                            <mainClass>com.exemple.Main</mainClass> <!-- classe main -->
                         </manifest>
                     </archive>
                 </configuration>
